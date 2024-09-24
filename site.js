@@ -14,3 +14,6 @@ if(isMorning){
 }else{
     h2.textContent = "Hello"
 }
+
+const key = "It's a secret to everybody."
+localStorage.setItem(key, 'it is not much of a secret')
