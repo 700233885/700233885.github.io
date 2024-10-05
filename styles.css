@@ -6,6 +6,11 @@ body{
 h1{
     font-size: 70px;
 }
+nav{
+    font-size: 25px;
+    border-bottom: 2px solid black;
+    word-spacing: 10px;
+}
 .content{
     display: flex;
     flex-direction: row;
