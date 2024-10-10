@@ -1,0 +1,18 @@
+h1{
+    font-size: 70px;
+    text-align: center;
+}
+nav{
+    font-size: 25px;
+    text-align: center;
+    border-bottom: 2px solid black;
+    word-spacing: 10px;
+}
+body{
+    margin-top: 75px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li{
+    list-style-position: inside;
+}
